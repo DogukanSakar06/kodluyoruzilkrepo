@@ -2,7 +2,7 @@
 <br>
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo <u>[Kodluyoruz](https://www.kodluyoruz.org)</u>
+Bu repo <ins>[Kodluyoruz](https://www.kodluyoruz.org)</ins>
 Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ***
